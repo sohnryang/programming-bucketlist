@@ -8,3 +8,7 @@
 - [ ] Learn Haskell (or some FP language)
 - [ ] Be an expert in [Codeforces](https://codeforces.com/) ([repo](https://github.com/sohnryang/codeforces-practice), [current status](https://codeforces.com/profile/sohnryang))
 - [ ] Build a physics simulator
+- [ ] Redesign my blog ([repo](https://github.com/sohnryang/blog), [blog](https://sohnryang.github.io/blog/))
+
+## Finished
+- [ ] Make a ZSH prompt ([repo](https://github.com/sohnryang/lambda-minimal-theme), [blog post](https://sohnryang.github.io/blog/2019/07/11/zsh-prompt.html))
